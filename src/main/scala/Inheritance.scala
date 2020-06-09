@@ -1,4 +1,4 @@
-
+package main
 
 trait A { def f(): String = "A.f()" }
 
